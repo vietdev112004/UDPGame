@@ -1,0 +1,90 @@
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.exe.config
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.exe
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.pdb
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Buffers.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.IO.Pipelines.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Memory.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Numerics.Vectors.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Json.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.ValueTuple.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Buffers.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.IO.Pipelines.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Memory.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Numerics.Vectors.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Encodings.Web.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Json.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\bin\Debug\System.ValueTuple.xml
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.AssemblyReference.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.Properties.Resources.resources
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.GenerateResource.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.CoreCompileInputs.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGame.F0CE79C4.Up2Date
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.exe
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.pdb
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.exe
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGameClient.pdb
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.exe.config
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.exe
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\QuizGameClient.pdb
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameClient\obj\Debug\QuizGame.F0CE79C4.Up2Date
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\QuizGameClient.exe.config
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\QuizGameClient.exe
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\QuizGameClient.pdb
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Buffers.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.IO.Pipelines.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Memory.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Numerics.Vectors.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Text.Json.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.ValueTuple.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Buffers.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.IO.Pipelines.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Memory.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Numerics.Vectors.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Text.Encodings.Web.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Text.Json.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\bin\Debug\System.ValueTuple.xml
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.csproj.AssemblyReference.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.Properties.Resources.resources
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.csproj.GenerateResource.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.csproj.CoreCompileInputs.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGame.F0CE79C4.Up2Date
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.exe
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameClient\obj\Debug\QuizGameClient.pdb

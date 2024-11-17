@@ -1,0 +1,60 @@
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.exe
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.deps.json
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.runtimeconfig.json
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.pdb
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.Text.Json.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.AssemblyReference.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfoInputs.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfo.cs
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.CoreCompileInputs.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGame.6F4D8FD7.Up2Date
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\refint\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.pdb
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.genruntimeconfig.cache
+D:\PHAM VAN VIET\HOC TAP\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\ref\QuizGameServer.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.exe
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.deps.json
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.runtimeconfig.json
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\QuizGameServer.pdb
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfo.cs
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGame.6F4D8FD7.Up2Date
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\refint\QuizGameServer.dll
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.pdb
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\QuizGameServer.genruntimeconfig.cache
+C:\Users\DELL\Downloads\QuizGamedemo1\QuizGamedemo1\QuizGameServer\obj\Debug\net8.0\ref\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\QuizGameServer.exe
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\QuizGameServer.deps.json
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\QuizGameServer.runtimeconfig.json
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\QuizGameServer.pdb
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\System.Text.Json.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.AssemblyReference.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfoInputs.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.AssemblyInfo.cs
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.csproj.CoreCompileInputs.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGame.6F4D8FD7.Up2Date
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\refint\QuizGameServer.dll
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.pdb
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\QuizGameServer.genruntimeconfig.cache
+D:\PHAM VAN VIET\HOC TAP\NAM 3\LAP TRINH MANG\QuizGamedemo\QuizGameServer\obj\Debug\net8.0\ref\QuizGameServer.dll
